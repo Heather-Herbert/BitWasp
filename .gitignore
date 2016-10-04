@@ -1,3 +1,11 @@
 ./application/config/database.php
 ./application/config/bitcoin.php
+./application/logs/*.php
+./application/cache/*.php
+./application/storage/.gnupg
 *~ 
+.htaccess
+/vendor
+composer.lock
+composer.phar
+dev_*.php
